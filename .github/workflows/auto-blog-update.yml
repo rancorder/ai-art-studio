@@ -1,0 +1,4 @@
+name: Auto Blog Update 
+on: 
+  push: 
+    paths: ['blog/*.html'] 
